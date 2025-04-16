@@ -1,6 +1,6 @@
 # processingで作成したゲーム集
 ## 概要
-趣味でprocessingでゲームを作成した。基本的にくだらないゲームです。（笑）
+趣味でprocessingでゲームを作成した。
 ## 実行環境
 processing 4.3.4
 ## 実行方法
